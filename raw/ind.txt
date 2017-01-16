@@ -1,0 +1,2 @@
+newspaper_key=aajtak,newspaper_name=Aaj Tak,newspaper_url=http://m.aajtak.in,newspaper_web_url=http://www.aajtak.in,newspaper_type=press
+|newspaper_key=amarujala,newspaper_name=Amar Ujala,newspaper_url=http://m.amarujala.com/,newspaper_web_url=http://www.amarujala.com/,newspaper_type=press
